@@ -1,4 +1,4 @@
-1- O que você gostaria de aprender no curso?
+﻿1- O que você gostaria de aprender no curso?
 R:	Eu gostaria de aprender mais assuntos sobre hardware, como placa de circuitos e etc.
 
 2- Quais melhorias você sugere?
@@ -10,3 +10,5 @@ R: 	Pontos fortes: O curso é bem completo em relação a lógica de programaç�
 
 4- Faça também sugestões para a disciplina de tópicos: o que você gostaria de aprender nessa disciplina? 
 R:	Gostaria de aprender Figma nessa disciplina.
+
+KAREN --> "Boa tarde, Rosana :)"
