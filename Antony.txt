@@ -1,0 +1,12 @@
+1- O que você gostaria de aprender no curso?
+R:	Eu gostaria de aprender mais assuntos sobre hardware, como placa de circuitos e etc.
+
+2- Quais melhorias você sugere?
+R: 	Acho que seria interessante apresentar a linguagem de programação python para os alunos e ensinar a utilizar mais ferramentas de framework.  
+
+3- Quais os pontos fortes do curso e os pontos fracos?
+R: 	Pontos fortes: O curso é bem completo em relação a lógica de programação e a matéria de desenvolvimento de aplicações web é muito intuitiva e divertida de se aprender.
+	Pontos fracos: Em algumas matérias, muito do conteúdo é teórico, o que dificulta para os alunos entenderem pois eles não conseguem praticar(como no início da disciplina de banco de dados, em que são apresentados os tipos de entidade) e outras matéria necessitam de bastante imaginação, o que pode ser difícil para alunos pouco criativos.
+
+4- Faça também sugestões para a disciplina de tópicos: o que você gostaria de aprender nessa disciplina? 
+R:	Gostaria de aprender Figma nessa disciplina.
