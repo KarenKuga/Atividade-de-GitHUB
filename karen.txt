@@ -1,0 +1,13 @@
+1- O que você gostaria de aprender no curso?
+Eu gostaria de aprender PHP. 
+
+2- Quais melhorias você sugere?
+Eu sugiro que as aulas tenham mais atividades práticas e exemplos do que exibição de slides.
+
+3- Quais os pontos fortes do curso e os pontos fracos?
+Ponto forte: Os exemplos de shell script e git bash foram muito bem executados.
+
+Ponto franco: Por ser três aulas seguidas, fica cansativo a quantidade de conteúdo passado.
+
+4- Faça também sugestões para a disciplina de tópicos: o que você gostaria de aprender nessa disciplina?
+Eu gostaria de aprender Figma nessa disciplina. 
